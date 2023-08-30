@@ -4,6 +4,7 @@ Plots cities on a map, and more!
 Suomeksi: city-plotter-app:n avulla tehdään funktiot jolla piirretään kaupungeja, välimatkoja ja muita.
 
 **On Linux and Mac**
+
 Steps to download and run this project:
 
 Step 1 : Install Python 3.7+
